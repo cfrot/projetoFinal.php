@@ -1,0 +1,14 @@
+otableAlunoAlunoCREATE TABLE Aluno (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, 
+      matricula TEXT,
+      nome TEXT, 
+      disciplina TEXT, 
+      nota1 TEXT,
+      nota2 TEXT
+      
+    )tablesqlite_sequencesqlite_sequenceCREATE TABLE sqlite_sequence(name,seq)��tableusuariousuarioCREATE TABLE usuario (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, 
+      nome TEXT, 
+      email TEXT, 
+      senha TEXT
+    )
